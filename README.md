@@ -1,7 +1,7 @@
 # QIntern2023
 Repo for code work done for QIntern 2023
-REFERENCES:
-D-wave Sampler SA - https://docs.ocean.dwavesys.com/en/stable/docs_samplers/index.html#simulated-annealing
+REFERENCES:\n
+D-wave Sampler SA - https://docs.ocean.dwavesys.com/en/stable/docs_samplers/index.html#simulated-annealing\n
 TSP PyQUBO        - https://github.com/recruit-communications/pyqubo/blob/master/notebooks/TSP.ipynb
 CVRP Library	  - http://vrp.atd-lab.inf.puc-rio.br/index.php/en/
 QA for VRP	  - https://arxiv.org/abs/2203.13469v1
